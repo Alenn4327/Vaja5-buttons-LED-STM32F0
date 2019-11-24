@@ -11,4 +11,4 @@ vaja 5 STM32F0 Discovery
 <p>modra LED: PC8</p>
 
 <h3>Komentar</h3>
-<p>Program uporablja osnovne funkcije vsakega programskega jezika. Uporabila sva "for", da sva skrajšala kodo. Da sva lahko preverila, če je gumb pritisnjen sva uporabila "if"</p>
+<p>Program uporablja osnovne funkcije vsakega programskega jezika. Uporabila sva "for", da sva skrajšala kodo. Za pregled kateri gumb je pritisnjen sva uporabila "if". Pri izdelavi ni bilo nobenih težav.</p>
